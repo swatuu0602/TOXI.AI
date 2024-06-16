@@ -54,7 +54,7 @@ def Home_Page():
 
 
     with col2:
-        st.image('Durg_Toxicity\Images\Home.jpg')
+        st.image('drug_ai/Durg_Toxicity/Images/Home.jpg')
 
 
 
