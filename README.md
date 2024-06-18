@@ -1,3 +1,4 @@
+
 # TOXI.AI
 This repository contains code and data for predicting drug toxicity using Graph Convolutional Networks (GCNs) with the Tox21 dataset.
 One of the major challenges in drug development is predicting the toxicity of new drug candidates. Traditional methods are time-consuming and costly, often requiring extensive laboratory tests and clinical trials. Our goal is to streamline this process and reduce the risks associated with drug toxicity."
@@ -17,12 +18,6 @@ Business and Health Impact:
 Performance Metrics:
 
 "Our model has shown a high accuracy of 90% in predicting toxic compounds, meaning it correctly identifies 90 out of 100 toxic compounds. More importantly, it has a recall of 85%, ensuring that we don’t miss out on identifying potentially harmful drugs."
-
-Visual Aids:
-
-
-
-"Here’s a simplified diagram of how the GCN processes a molecule. The nodes represent atoms, and the edges represent chemical bonds. The GCN analyzes these connections to make its predictions."
 
 Addressing Concerns:
 
